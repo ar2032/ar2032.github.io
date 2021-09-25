@@ -6,4 +6,4 @@
 
 ## Links
 
-[Repo](https://ar2032.github.io/<project-name> "<project-name> Repo")
+[Repo](https://ar2032.github.io/"<project-name> Repo")
