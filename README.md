@@ -1,6 +1,4 @@
-<h1 align="center">Project title</h1>
-
-# Lab 1: Git and GitHub
+<h1 align="center">Lab 1: Git and GitHub</h1>
 
 <p align="center">Project Description</p>
 # This project is a simple blog website made with the use of jekyll a static site generator.
